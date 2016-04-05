@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/multiplayer_arena_one.unity
+- path: Assets/Scenes/multiplayer_arena_one.unity
   isLoaded: 1
   isActive: 1
